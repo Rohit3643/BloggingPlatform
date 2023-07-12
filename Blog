@@ -1,0 +1,5 @@
+index.html: The main HTML file that serves as the entry point of the blogging platform.
+styles.css: The CSS file that defines the styles and layout of the web application.
+script.js: The JavaScript file that contains the logic and functionality of the blogging platform.
+server.py: The Python file that implements the backend server for handling blog post requests and data storage.
+templates/: A directory containing HTML templates for rendering different pages of the blogging platform.
